@@ -1,5 +1,3 @@
-[![header][header-url]][header-link]
-
 # Portfolio shahkweb
 [![Project Version][version-image]][version-url]
 [![Frontend][Frontend-image]][Frontend-url]
