@@ -37,20 +37,6 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 
 ---
 
-## Installation
-
-Describe how to get your project running.
-
-MacOS & Linux:
-
-npm install my-module --save
-
-Windows:
-
-edit autoexec.bat
-
----
-
 ## Development setup
 
 Describe how to install all development dependencies and consider do this for multiple platforms.  
