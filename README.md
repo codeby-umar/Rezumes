@@ -27,14 +27,6 @@ This project was designed to demonstrate:
 * Typescript
 * Node.js
 
-## Usage example
-
-Bring the best usages of your project.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
----
-
 ## Development setup
 
 Describe how to install all development dependencies and consider do this for multiple platforms.  
