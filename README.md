@@ -6,8 +6,7 @@
 > Short blurb about your project idea.
 
 One or two paragraphs about your project and what it does.
-
----
+--
 ## Author
 
 Your name 
